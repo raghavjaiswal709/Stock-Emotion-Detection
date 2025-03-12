@@ -1,0 +1,61 @@
+# Node modules
+/frontend/node_modules
+/node_modules
+/frontend/.npm
+/frontend/.cache
+
+# Logs
+/frontend/logs
+/frontend/*.log
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# Dependency directories
+/frontend/bower_components
+
+# Build outputs
+/frontend/dist
+/frontend/build
+/frontend/.next
+/frontend/out
+/frontend/.turbo
+
+# Temporary files
+/frontend/.DS_Store
+/frontend/*.tmp
+/frontend/*.temp
+
+# Environment variables
+/frontend/.env
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+# Next.js cache and output
+/frontend/.next/
+/frontend/.vercel/
+/frontend/.swc
+
+# Typescript cache and build files
+/frontend/*.tsbuildinfo
+
+# Coverage
+/frontend/coverage
+/frontend/.nyc_output
+
+# IDE and editor files
+/frontend/.vscode/
+/frontend/.idea/
+/frontend/.project
+/frontend/.classpath
+/frontend/.c9/
+/frontend/.history
+
+# Docker
+/frontend/Dockerfile
+/frontend/docker-compose.yml
+
+# Misc
+/frontend/.eslintcache
+/frontend/.prettiercache
